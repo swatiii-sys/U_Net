@@ -1,6 +1,4 @@
-![App Screenshot](https://github.com//swatiii-sys//C:/Users//ACER//Desktop//download (2).jpg)
-# U_Net
-## Neuronal Structure Segmentation with U-Net: ISBI 2012 Challenge
+
 ### Overview
 This repository provides a specialized implementation of the U-Net architecture for the semantic segmentation of neuronal membranes. Utilizing the ISBI 2012 Challenge dataset, this project leverages TensorFlow and Keras to automate the identification of cellular boundaries in electron microscopy (EM) images. By employing a symmetric encoder-decoder framework with long-range skip connections, the model is capable of producing high-resolution biological masks crucial for connectomics and brain tissue mapping.
 
