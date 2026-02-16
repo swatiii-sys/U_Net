@@ -1,4 +1,4 @@
-![App Screenshot](https://github.com/swatiii-sys/C:\Users\ACER\Desktop\download (2).jpg)
+![App Screenshot](https://github.com/Surbhipatil/GPT-2/blob/main/1695718765348.png)
 # U_Net
 ## Neuronal Structure Segmentation with U-Net: ISBI 2012 Challenge
 ### Overview
