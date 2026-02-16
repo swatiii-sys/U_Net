@@ -1,4 +1,4 @@
-![App Screenshot](https://github.com//swatiii-sys/"C:/Users/ACER/Desktop/download (2).jpg")
+![App Screenshot](https://github.com//swatiii-sys//C:/Users//ACER//Desktop//download (2).jpg)
 # U_Net
 ## Neuronal Structure Segmentation with U-Net: ISBI 2012 Challenge
 ### Overview
