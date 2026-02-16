@@ -1,3 +1,4 @@
+![App Screenshot](https://github.com/swatiii-sys/"C:\Users\ACER\Desktop\download (2).jpg)
 # U_Net
 ## Neuronal Structure Segmentation with U-Net: ISBI 2012 Challenge
 ### Overview
@@ -31,5 +32,4 @@ Output: A 1x1 convolution with a Sigmoid activation, mapping results to a pixel-
 ### Results & Inference
 The model produces a continuous probability map. To generate the final biological mask used in research, we apply a binarization threshold:
 
-### Binarizing predicted masks at 0.5 threshold
-predictions = (model.predict(X_test) > 0.5).astype(np.uint8)
+
